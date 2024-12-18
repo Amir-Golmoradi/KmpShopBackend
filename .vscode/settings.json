@@ -1,4 +1,15 @@
 {
  "window.zoomLevel": 3.6,
  "git.ignoreLimitWarning": true,
+ "sqltools.connections": [
+  {
+   "previewLimit": 50,
+   "server": "localhost",
+   "port": 5432,
+   "driver": "PostgreSQL",
+   "name": "customers",
+   "database": "kmpshop",
+   "username": "amirgolmoradi"
+  }
+ ],
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MEajtEqW5G0=",
+  "dgSpecHash": "fudCHi+3lkxb/xMiOHvhJnl+LzhqWIaTq4ypuRJWEDBY3SrprkqQTYvidImebTEdY+jSznWhxhAknOwUDCSS0Q==",
   "success": true,
   "projectFilePath": "/home/wisepup/RiderProjects/KmpShopBackend/KmpShopBackend.csproj",
   "expectedPackageFiles": [
@@ -54,7 +54,8 @@
     "/home/wisepup/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/home/wisepup/.nuget/packages/system.text.encodings.web/9.0.0/system.text.encodings.web.9.0.0.nupkg.sha512",
     "/home/wisepup/.nuget/packages/system.text.json/9.0.0/system.text.json.9.0.0.nupkg.sha512",
-    "/home/wisepup/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+    "/home/wisepup/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512",
+    "/home/wisepup/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
   ],
   "logs": []
 }

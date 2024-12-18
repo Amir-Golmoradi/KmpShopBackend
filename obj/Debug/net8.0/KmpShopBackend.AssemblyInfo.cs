@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KmpShopBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5d646886e213c118dcb09ed1a817d1cd166d614")]
 [assembly: System.Reflection.AssemblyProductAttribute("KmpShopBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KmpShopBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
